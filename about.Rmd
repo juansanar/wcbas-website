@@ -1,9 +1,10 @@
 ---
-title: 'About "Who Can Become a Scientist?"'
+title: 'What is "Who Can Become a Scientist?"'
 description: |
-  We are small idependent team at the University of Victoria working with Let's Talk Science to bring a science outreach workshop that aims to increase the diversity in STEM fields by discussing and sharing current issues in STEM and providing tools and resources to mitigate and overcome them.
+  "Who Can Become A Scientist" is a workshop that encourages and promotes equity, diversity, and inclusion in STEM.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+

@@ -1,5 +1,19 @@
 ---
 title: "Who Can Become A Scientist"
+description: |
+  Welcome to the website for the workshop "Who Can Become A Scientist". We hope to see you at our upcoming event!
 site: distill::distill_website
-listing: posts
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+[![Poster](poster01.png){width=700px}](https://letstalkscience-parlonssciences-ca.zoom.us/webinar/register/WN_OTCEo_PRQO6bvGjIiWq-uw)
