@@ -1,7 +1,7 @@
 ---
-title: "Who Can Become A Scientist?"
+title: '"Who Can Become A Scientist?" goes live!'
 description: |
-  Welcome to the website for the workshop "Who Can Become A Scientist". We hope to see you at our upcoming event!
+  Join us at our upcoming event! Click the image below to register.
 site: distill::distill_website
 ---
 
