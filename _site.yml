@@ -1,7 +1,7 @@
 name: "wcbas-website"
 title: "Who Can Become A Scientist?"
+favicon: images/atom-solid.png
 theme: styles.css
-favicon: image/atom-solid.png
 description: |
   Who Can Become A Scientist
 output_dir: "docs"
