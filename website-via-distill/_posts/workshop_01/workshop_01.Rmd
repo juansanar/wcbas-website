@@ -1,0 +1,19 @@
+---
+title: '"Who Can Become A Scientist" goes live!'
+description: |
+  We are happy to announce our next workshop date!
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+In partnership with Let's Talk Science, we will be offering the "Who Can Become A Scientist?" workshop on Wednesday November 10th from 9:00 AM to 11:00 AM during the "World Science Day for Peace and Development"
+
+[!["Who Can Become A Scientist" Workshop Poster". Date: Wednesday, November 10, 2021. 9:00-11:00 AM](Who-can-become-a-scientist-2.png){width=700px}](https://letstalkscience-parlonssciences-ca.zoom.us/webinar/register/WN_OTCEo_PRQO6bvGjIiWq-uw)

@@ -1,0 +1,26 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Who Can Become A Scientist",
+    "description": "Welcome the \"Who Can Become A Scientist\" Workshop Webiste. We hope you enjoy \nreading what we have to say and stay in touch!",
+    "author": [],
+    "date": "2021-10-26",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-26T11:51:02-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/workshop_01/",
+    "title": "\"Who Can Become A Scientist\" goes live!",
+    "description": "We are happy to announce our next workshop date!",
+    "author": [],
+    "date": "2021-10-26",
+    "categories": [],
+    "contents": "\r\nIn partnership with Let’s Talk Science, we will be offering the “Who Can Become A Scientist?” workshop on Wednesday November 10th from 9:00 AM to 11:00 AM during the “World Science Day for Peace and Development”\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-26T11:55:06-07:00",
+    "input_file": {}
+  }
+]
