@@ -2,7 +2,7 @@ name: "wcbas-website"
 title: "Who Can Become A Scientist"
 description: |
   Who Can Become A Scientist
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
