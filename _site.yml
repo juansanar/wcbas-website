@@ -5,6 +5,8 @@ description: |
   Who Can Become A Scientist
 output_dir: "docs"
 navbar:
+  logo: 
+    image: images/atom-solid.png
   right:
     - text: "Home"
       href: index.html
