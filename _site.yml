@@ -1,5 +1,6 @@
 name: "wcbas-website"
-title: "Who Can Become A Scientist"
+title: "Who Can Become A Scientist?"
+theme: styles.css
 description: |
   Who Can Become A Scientist
 output_dir: "docs"
@@ -10,3 +11,4 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+
