@@ -16,4 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-[![Poster](poster01.png){width=700px}](https://letstalkscience-parlonssciences-ca.zoom.us/webinar/register/WN_OTCEo_PRQO6bvGjIiWq-uw)
+[![Poster](poster01.png){width=100%}](https://letstalkscience-parlonssciences-ca.zoom.us/webinar/register/WN_OTCEo_PRQO6bvGjIiWq-uw)
