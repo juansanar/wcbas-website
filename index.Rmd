@@ -17,3 +17,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 [![Poster](images/poster01.png){width=100%}](https://letstalkscience-parlonssciences-ca.zoom.us/webinar/register/WN_OTCEo_PRQO6bvGjIiWq-uw)
+
+> We acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the university stands and the Songhees, Esquimalt and W̱SÁNEĆ peoples whose historical relationships with the land continue to this day

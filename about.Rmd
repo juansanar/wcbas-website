@@ -2,6 +2,8 @@
 title: 'What is "Who Can Become A Scientist?"'
 description: |
   "Who Can Become A Scientist" is a workshop that encourages and promotes equity, diversity, and inclusion in STEM. This workshop was developed by a small independent team at the University of Victoria that includes faculty, graduate students, and research staff. We have partnered with Let's Talk Science at the University of Victoria to share and deploy this workshop.
+  
+  We acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the university stands and the Songhees, Esquimalt and W̱SÁNEĆ peoples whose historical relationships with the land continue to this da.y
 ---
 
 ```{r setup, include=FALSE}
