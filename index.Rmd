@@ -3,6 +3,7 @@ title: '"Who Can Become A Scientist?" goes live!'
 description: |
   Join us at our upcoming event! Click the image below to register.
 site: distill::distill_website
+preview: images/poster01_small.png
 ---
 
 ```{r setup, include=FALSE}
